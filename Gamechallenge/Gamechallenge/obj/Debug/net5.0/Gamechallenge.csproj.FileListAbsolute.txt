@@ -1,0 +1,16 @@
+C:\Users\Tayab\Desktop\New folder\Gamechallenge\Gamechallenge\bin\Debug\net5.0\Gamechallenge.exe
+C:\Users\Tayab\Desktop\New folder\Gamechallenge\Gamechallenge\bin\Debug\net5.0\Gamechallenge.deps.json
+C:\Users\Tayab\Desktop\New folder\Gamechallenge\Gamechallenge\bin\Debug\net5.0\Gamechallenge.runtimeconfig.json
+C:\Users\Tayab\Desktop\New folder\Gamechallenge\Gamechallenge\bin\Debug\net5.0\Gamechallenge.runtimeconfig.dev.json
+C:\Users\Tayab\Desktop\New folder\Gamechallenge\Gamechallenge\bin\Debug\net5.0\Gamechallenge.dll
+C:\Users\Tayab\Desktop\New folder\Gamechallenge\Gamechallenge\bin\Debug\net5.0\ref\Gamechallenge.dll
+C:\Users\Tayab\Desktop\New folder\Gamechallenge\Gamechallenge\bin\Debug\net5.0\Gamechallenge.pdb
+C:\Users\Tayab\Desktop\New folder\Gamechallenge\Gamechallenge\obj\Debug\net5.0\Gamechallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tayab\Desktop\New folder\Gamechallenge\Gamechallenge\obj\Debug\net5.0\Gamechallenge.AssemblyInfoInputs.cache
+C:\Users\Tayab\Desktop\New folder\Gamechallenge\Gamechallenge\obj\Debug\net5.0\Gamechallenge.AssemblyInfo.cs
+C:\Users\Tayab\Desktop\New folder\Gamechallenge\Gamechallenge\obj\Debug\net5.0\Gamechallenge.csproj.CoreCompileInputs.cache
+C:\Users\Tayab\Desktop\New folder\Gamechallenge\Gamechallenge\obj\Debug\net5.0\Gamechallenge.dll
+C:\Users\Tayab\Desktop\New folder\Gamechallenge\Gamechallenge\obj\Debug\net5.0\ref\Gamechallenge.dll
+C:\Users\Tayab\Desktop\New folder\Gamechallenge\Gamechallenge\obj\Debug\net5.0\Gamechallenge.pdb
+C:\Users\Tayab\Desktop\New folder\Gamechallenge\Gamechallenge\obj\Debug\net5.0\Gamechallenge.genruntimeconfig.cache
+C:\Users\Tayab\Desktop\New folder\Gamechallenge\Gamechallenge\obj\Debug\net5.0\Gamechallenge.csproj.AssemblyReference.cache

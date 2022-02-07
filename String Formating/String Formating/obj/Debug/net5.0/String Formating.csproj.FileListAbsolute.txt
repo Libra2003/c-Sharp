@@ -1,0 +1,16 @@
+C:\Users\Tayab\Desktop\New folder\String Formating\String Formating\bin\Debug\net5.0\String Formating.exe
+C:\Users\Tayab\Desktop\New folder\String Formating\String Formating\bin\Debug\net5.0\String Formating.deps.json
+C:\Users\Tayab\Desktop\New folder\String Formating\String Formating\bin\Debug\net5.0\String Formating.runtimeconfig.json
+C:\Users\Tayab\Desktop\New folder\String Formating\String Formating\bin\Debug\net5.0\String Formating.runtimeconfig.dev.json
+C:\Users\Tayab\Desktop\New folder\String Formating\String Formating\bin\Debug\net5.0\String Formating.dll
+C:\Users\Tayab\Desktop\New folder\String Formating\String Formating\bin\Debug\net5.0\ref\String Formating.dll
+C:\Users\Tayab\Desktop\New folder\String Formating\String Formating\bin\Debug\net5.0\String Formating.pdb
+C:\Users\Tayab\Desktop\New folder\String Formating\String Formating\obj\Debug\net5.0\String Formating.csproj.AssemblyReference.cache
+C:\Users\Tayab\Desktop\New folder\String Formating\String Formating\obj\Debug\net5.0\String Formating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tayab\Desktop\New folder\String Formating\String Formating\obj\Debug\net5.0\String Formating.AssemblyInfoInputs.cache
+C:\Users\Tayab\Desktop\New folder\String Formating\String Formating\obj\Debug\net5.0\String Formating.AssemblyInfo.cs
+C:\Users\Tayab\Desktop\New folder\String Formating\String Formating\obj\Debug\net5.0\String Formating.csproj.CoreCompileInputs.cache
+C:\Users\Tayab\Desktop\New folder\String Formating\String Formating\obj\Debug\net5.0\String Formating.dll
+C:\Users\Tayab\Desktop\New folder\String Formating\String Formating\obj\Debug\net5.0\ref\String Formating.dll
+C:\Users\Tayab\Desktop\New folder\String Formating\String Formating\obj\Debug\net5.0\String Formating.pdb
+C:\Users\Tayab\Desktop\New folder\String Formating\String Formating\obj\Debug\net5.0\String Formating.genruntimeconfig.cache

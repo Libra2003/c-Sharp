@@ -1,0 +1,16 @@
+C:\Users\Tayab\Desktop\New folder\Builder\Builder\bin\Debug\net5.0\Builder.exe
+C:\Users\Tayab\Desktop\New folder\Builder\Builder\bin\Debug\net5.0\Builder.deps.json
+C:\Users\Tayab\Desktop\New folder\Builder\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+C:\Users\Tayab\Desktop\New folder\Builder\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+C:\Users\Tayab\Desktop\New folder\Builder\Builder\bin\Debug\net5.0\Builder.dll
+C:\Users\Tayab\Desktop\New folder\Builder\Builder\bin\Debug\net5.0\ref\Builder.dll
+C:\Users\Tayab\Desktop\New folder\Builder\Builder\bin\Debug\net5.0\Builder.pdb
+C:\Users\Tayab\Desktop\New folder\Builder\Builder\obj\Debug\net5.0\Builder.csproj.AssemblyReference.cache
+C:\Users\Tayab\Desktop\New folder\Builder\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tayab\Desktop\New folder\Builder\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+C:\Users\Tayab\Desktop\New folder\Builder\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+C:\Users\Tayab\Desktop\New folder\Builder\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Tayab\Desktop\New folder\Builder\Builder\obj\Debug\net5.0\Builder.dll
+C:\Users\Tayab\Desktop\New folder\Builder\Builder\obj\Debug\net5.0\ref\Builder.dll
+C:\Users\Tayab\Desktop\New folder\Builder\Builder\obj\Debug\net5.0\Builder.pdb
+C:\Users\Tayab\Desktop\New folder\Builder\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache

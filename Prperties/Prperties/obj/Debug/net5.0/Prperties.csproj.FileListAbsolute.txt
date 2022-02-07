@@ -1,0 +1,16 @@
+C:\Users\Tayab\Desktop\New folder\Prperties\Prperties\bin\Debug\net5.0\Prperties.exe
+C:\Users\Tayab\Desktop\New folder\Prperties\Prperties\bin\Debug\net5.0\Prperties.deps.json
+C:\Users\Tayab\Desktop\New folder\Prperties\Prperties\bin\Debug\net5.0\Prperties.runtimeconfig.json
+C:\Users\Tayab\Desktop\New folder\Prperties\Prperties\bin\Debug\net5.0\Prperties.runtimeconfig.dev.json
+C:\Users\Tayab\Desktop\New folder\Prperties\Prperties\bin\Debug\net5.0\Prperties.dll
+C:\Users\Tayab\Desktop\New folder\Prperties\Prperties\bin\Debug\net5.0\ref\Prperties.dll
+C:\Users\Tayab\Desktop\New folder\Prperties\Prperties\bin\Debug\net5.0\Prperties.pdb
+C:\Users\Tayab\Desktop\New folder\Prperties\Prperties\obj\Debug\net5.0\Prperties.csproj.AssemblyReference.cache
+C:\Users\Tayab\Desktop\New folder\Prperties\Prperties\obj\Debug\net5.0\Prperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tayab\Desktop\New folder\Prperties\Prperties\obj\Debug\net5.0\Prperties.AssemblyInfoInputs.cache
+C:\Users\Tayab\Desktop\New folder\Prperties\Prperties\obj\Debug\net5.0\Prperties.AssemblyInfo.cs
+C:\Users\Tayab\Desktop\New folder\Prperties\Prperties\obj\Debug\net5.0\Prperties.csproj.CoreCompileInputs.cache
+C:\Users\Tayab\Desktop\New folder\Prperties\Prperties\obj\Debug\net5.0\Prperties.dll
+C:\Users\Tayab\Desktop\New folder\Prperties\Prperties\obj\Debug\net5.0\ref\Prperties.dll
+C:\Users\Tayab\Desktop\New folder\Prperties\Prperties\obj\Debug\net5.0\Prperties.pdb
+C:\Users\Tayab\Desktop\New folder\Prperties\Prperties\obj\Debug\net5.0\Prperties.genruntimeconfig.cache

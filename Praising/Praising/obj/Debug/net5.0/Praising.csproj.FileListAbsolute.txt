@@ -1,0 +1,16 @@
+C:\Users\Tayab\Desktop\New folder\Praising\Praising\bin\Debug\net5.0\Praising.exe
+C:\Users\Tayab\Desktop\New folder\Praising\Praising\bin\Debug\net5.0\Praising.deps.json
+C:\Users\Tayab\Desktop\New folder\Praising\Praising\bin\Debug\net5.0\Praising.runtimeconfig.json
+C:\Users\Tayab\Desktop\New folder\Praising\Praising\bin\Debug\net5.0\Praising.runtimeconfig.dev.json
+C:\Users\Tayab\Desktop\New folder\Praising\Praising\bin\Debug\net5.0\Praising.dll
+C:\Users\Tayab\Desktop\New folder\Praising\Praising\bin\Debug\net5.0\ref\Praising.dll
+C:\Users\Tayab\Desktop\New folder\Praising\Praising\bin\Debug\net5.0\Praising.pdb
+C:\Users\Tayab\Desktop\New folder\Praising\Praising\obj\Debug\net5.0\Praising.csproj.AssemblyReference.cache
+C:\Users\Tayab\Desktop\New folder\Praising\Praising\obj\Debug\net5.0\Praising.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tayab\Desktop\New folder\Praising\Praising\obj\Debug\net5.0\Praising.AssemblyInfoInputs.cache
+C:\Users\Tayab\Desktop\New folder\Praising\Praising\obj\Debug\net5.0\Praising.AssemblyInfo.cs
+C:\Users\Tayab\Desktop\New folder\Praising\Praising\obj\Debug\net5.0\Praising.csproj.CoreCompileInputs.cache
+C:\Users\Tayab\Desktop\New folder\Praising\Praising\obj\Debug\net5.0\Praising.dll
+C:\Users\Tayab\Desktop\New folder\Praising\Praising\obj\Debug\net5.0\ref\Praising.dll
+C:\Users\Tayab\Desktop\New folder\Praising\Praising\obj\Debug\net5.0\Praising.pdb
+C:\Users\Tayab\Desktop\New folder\Praising\Praising\obj\Debug\net5.0\Praising.genruntimeconfig.cache

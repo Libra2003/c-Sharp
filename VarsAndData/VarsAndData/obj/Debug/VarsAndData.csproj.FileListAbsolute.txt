@@ -1,0 +1,9 @@
+C:\Users\Tayab\Desktop\New folder\VarsAndData\VarsAndData\bin\Debug\VarsAndData.exe.config
+C:\Users\Tayab\Desktop\New folder\VarsAndData\VarsAndData\bin\Debug\VarsAndData.exe
+C:\Users\Tayab\Desktop\New folder\VarsAndData\VarsAndData\bin\Debug\VarsAndData.pdb
+C:\Users\Tayab\Desktop\New folder\VarsAndData\VarsAndData\obj\Debug\VarsAndData.csproj.AssemblyReference.cache
+C:\Users\Tayab\Desktop\New folder\VarsAndData\VarsAndData\obj\Debug\VarsAndData.Properties.Resources.resources
+C:\Users\Tayab\Desktop\New folder\VarsAndData\VarsAndData\obj\Debug\VarsAndData.csproj.GenerateResource.cache
+C:\Users\Tayab\Desktop\New folder\VarsAndData\VarsAndData\obj\Debug\VarsAndData.csproj.CoreCompileInputs.cache
+C:\Users\Tayab\Desktop\New folder\VarsAndData\VarsAndData\obj\Debug\VarsAndData.exe
+C:\Users\Tayab\Desktop\New folder\VarsAndData\VarsAndData\obj\Debug\VarsAndData.pdb

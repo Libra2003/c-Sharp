@@ -1,0 +1,16 @@
+C:\Users\Tayab\Desktop\New folder\Operator\Operator\obj\Debug\net5.0\Operator.csproj.AssemblyReference.cache
+C:\Users\Tayab\Desktop\New folder\Operator\Operator\obj\Debug\net5.0\Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tayab\Desktop\New folder\Operator\Operator\obj\Debug\net5.0\Operator.AssemblyInfoInputs.cache
+C:\Users\Tayab\Desktop\New folder\Operator\Operator\obj\Debug\net5.0\Operator.AssemblyInfo.cs
+C:\Users\Tayab\Desktop\New folder\Operator\Operator\obj\Debug\net5.0\Operator.csproj.CoreCompileInputs.cache
+C:\Users\Tayab\Desktop\New folder\Operator\Operator\bin\Debug\net5.0\Operator.exe
+C:\Users\Tayab\Desktop\New folder\Operator\Operator\bin\Debug\net5.0\Operator.deps.json
+C:\Users\Tayab\Desktop\New folder\Operator\Operator\bin\Debug\net5.0\Operator.runtimeconfig.json
+C:\Users\Tayab\Desktop\New folder\Operator\Operator\bin\Debug\net5.0\Operator.runtimeconfig.dev.json
+C:\Users\Tayab\Desktop\New folder\Operator\Operator\bin\Debug\net5.0\Operator.dll
+C:\Users\Tayab\Desktop\New folder\Operator\Operator\bin\Debug\net5.0\ref\Operator.dll
+C:\Users\Tayab\Desktop\New folder\Operator\Operator\bin\Debug\net5.0\Operator.pdb
+C:\Users\Tayab\Desktop\New folder\Operator\Operator\obj\Debug\net5.0\Operator.dll
+C:\Users\Tayab\Desktop\New folder\Operator\Operator\obj\Debug\net5.0\ref\Operator.dll
+C:\Users\Tayab\Desktop\New folder\Operator\Operator\obj\Debug\net5.0\Operator.pdb
+C:\Users\Tayab\Desktop\New folder\Operator\Operator\obj\Debug\net5.0\Operator.genruntimeconfig.cache

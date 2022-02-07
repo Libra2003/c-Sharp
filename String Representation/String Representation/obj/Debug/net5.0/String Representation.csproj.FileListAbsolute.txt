@@ -1,0 +1,16 @@
+C:\Users\Tayab\Desktop\New folder\String Representation\String Representation\bin\Debug\net5.0\String Representation.exe
+C:\Users\Tayab\Desktop\New folder\String Representation\String Representation\bin\Debug\net5.0\String Representation.deps.json
+C:\Users\Tayab\Desktop\New folder\String Representation\String Representation\bin\Debug\net5.0\String Representation.runtimeconfig.json
+C:\Users\Tayab\Desktop\New folder\String Representation\String Representation\bin\Debug\net5.0\String Representation.runtimeconfig.dev.json
+C:\Users\Tayab\Desktop\New folder\String Representation\String Representation\bin\Debug\net5.0\String Representation.dll
+C:\Users\Tayab\Desktop\New folder\String Representation\String Representation\bin\Debug\net5.0\ref\String Representation.dll
+C:\Users\Tayab\Desktop\New folder\String Representation\String Representation\bin\Debug\net5.0\String Representation.pdb
+C:\Users\Tayab\Desktop\New folder\String Representation\String Representation\obj\Debug\net5.0\String Representation.csproj.AssemblyReference.cache
+C:\Users\Tayab\Desktop\New folder\String Representation\String Representation\obj\Debug\net5.0\String Representation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tayab\Desktop\New folder\String Representation\String Representation\obj\Debug\net5.0\String Representation.AssemblyInfoInputs.cache
+C:\Users\Tayab\Desktop\New folder\String Representation\String Representation\obj\Debug\net5.0\String Representation.AssemblyInfo.cs
+C:\Users\Tayab\Desktop\New folder\String Representation\String Representation\obj\Debug\net5.0\String Representation.csproj.CoreCompileInputs.cache
+C:\Users\Tayab\Desktop\New folder\String Representation\String Representation\obj\Debug\net5.0\String Representation.dll
+C:\Users\Tayab\Desktop\New folder\String Representation\String Representation\obj\Debug\net5.0\ref\String Representation.dll
+C:\Users\Tayab\Desktop\New folder\String Representation\String Representation\obj\Debug\net5.0\String Representation.pdb
+C:\Users\Tayab\Desktop\New folder\String Representation\String Representation\obj\Debug\net5.0\String Representation.genruntimeconfig.cache

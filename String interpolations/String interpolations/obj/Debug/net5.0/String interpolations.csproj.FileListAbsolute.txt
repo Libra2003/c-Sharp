@@ -1,0 +1,16 @@
+C:\Users\Tayab\Desktop\New folder\String interpolations\String interpolations\bin\Debug\net5.0\String interpolations.exe
+C:\Users\Tayab\Desktop\New folder\String interpolations\String interpolations\bin\Debug\net5.0\String interpolations.deps.json
+C:\Users\Tayab\Desktop\New folder\String interpolations\String interpolations\bin\Debug\net5.0\String interpolations.runtimeconfig.json
+C:\Users\Tayab\Desktop\New folder\String interpolations\String interpolations\bin\Debug\net5.0\String interpolations.runtimeconfig.dev.json
+C:\Users\Tayab\Desktop\New folder\String interpolations\String interpolations\bin\Debug\net5.0\String interpolations.dll
+C:\Users\Tayab\Desktop\New folder\String interpolations\String interpolations\bin\Debug\net5.0\ref\String interpolations.dll
+C:\Users\Tayab\Desktop\New folder\String interpolations\String interpolations\bin\Debug\net5.0\String interpolations.pdb
+C:\Users\Tayab\Desktop\New folder\String interpolations\String interpolations\obj\Debug\net5.0\String interpolations.csproj.AssemblyReference.cache
+C:\Users\Tayab\Desktop\New folder\String interpolations\String interpolations\obj\Debug\net5.0\String interpolations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tayab\Desktop\New folder\String interpolations\String interpolations\obj\Debug\net5.0\String interpolations.AssemblyInfoInputs.cache
+C:\Users\Tayab\Desktop\New folder\String interpolations\String interpolations\obj\Debug\net5.0\String interpolations.AssemblyInfo.cs
+C:\Users\Tayab\Desktop\New folder\String interpolations\String interpolations\obj\Debug\net5.0\String interpolations.csproj.CoreCompileInputs.cache
+C:\Users\Tayab\Desktop\New folder\String interpolations\String interpolations\obj\Debug\net5.0\String interpolations.dll
+C:\Users\Tayab\Desktop\New folder\String interpolations\String interpolations\obj\Debug\net5.0\ref\String interpolations.dll
+C:\Users\Tayab\Desktop\New folder\String interpolations\String interpolations\obj\Debug\net5.0\String interpolations.pdb
+C:\Users\Tayab\Desktop\New folder\String interpolations\String interpolations\obj\Debug\net5.0\String interpolations.genruntimeconfig.cache

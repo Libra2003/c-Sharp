@@ -1,0 +1,16 @@
+C:\Users\Tayab\Desktop\New folder\loops\loops\bin\Debug\net5.0\loops.exe
+C:\Users\Tayab\Desktop\New folder\loops\loops\bin\Debug\net5.0\loops.deps.json
+C:\Users\Tayab\Desktop\New folder\loops\loops\bin\Debug\net5.0\loops.runtimeconfig.json
+C:\Users\Tayab\Desktop\New folder\loops\loops\bin\Debug\net5.0\loops.runtimeconfig.dev.json
+C:\Users\Tayab\Desktop\New folder\loops\loops\bin\Debug\net5.0\loops.dll
+C:\Users\Tayab\Desktop\New folder\loops\loops\bin\Debug\net5.0\ref\loops.dll
+C:\Users\Tayab\Desktop\New folder\loops\loops\bin\Debug\net5.0\loops.pdb
+C:\Users\Tayab\Desktop\New folder\loops\loops\obj\Debug\net5.0\loops.csproj.AssemblyReference.cache
+C:\Users\Tayab\Desktop\New folder\loops\loops\obj\Debug\net5.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tayab\Desktop\New folder\loops\loops\obj\Debug\net5.0\loops.AssemblyInfoInputs.cache
+C:\Users\Tayab\Desktop\New folder\loops\loops\obj\Debug\net5.0\loops.AssemblyInfo.cs
+C:\Users\Tayab\Desktop\New folder\loops\loops\obj\Debug\net5.0\loops.csproj.CoreCompileInputs.cache
+C:\Users\Tayab\Desktop\New folder\loops\loops\obj\Debug\net5.0\loops.dll
+C:\Users\Tayab\Desktop\New folder\loops\loops\obj\Debug\net5.0\ref\loops.dll
+C:\Users\Tayab\Desktop\New folder\loops\loops\obj\Debug\net5.0\loops.pdb
+C:\Users\Tayab\Desktop\New folder\loops\loops\obj\Debug\net5.0\loops.genruntimeconfig.cache
